@@ -22,3 +22,6 @@ Goodcabs, a cab service company established two years ago operates in ten tier-2
 > <img width="784" height="354" alt="image" src="https://github.com/user-attachments/assets/7594dabb-0127-445d-a557-a81aac82daac" />
 > <img width="777" height="354" alt="image" src="https://github.com/user-attachments/assets/ef1f1f9e-604b-429e-9c1e-c74ba04555b4" />
 
+## Deliverables
+
+### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYmFiYWFiMTEtOWRjNS00YWNkLTg1YmYtMDQ2YWU5N2NlYzA0IiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
