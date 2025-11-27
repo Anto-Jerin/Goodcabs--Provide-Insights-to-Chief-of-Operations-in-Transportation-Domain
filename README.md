@@ -17,5 +17,8 @@ Goodcabs, a cab service company established two years ago operates in ten tier-2
 
 > ### A Ribbon chart with the option to view the KPIs as values or % contribution to the total
 > <img width="784" height="354" alt="image" src="https://github.com/user-attachments/assets/7594dabb-0127-445d-a557-a81aac82daac" />
+>
+> *The month columns are made responsive to the month filters for reduced clutter and for dynamic level of detail* 
+>
 > <img width="777" height="354" alt="image" src="https://github.com/user-attachments/assets/ef1f1f9e-604b-429e-9c1e-c74ba04555b4" />
 
